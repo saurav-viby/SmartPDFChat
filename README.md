@@ -7,8 +7,17 @@ PDFChatAI is a Python-based project that utilizes FastAPI and Swagger UI to enab
 Key Features:
 
 Interactive Q&A: Engage in natural language conversations with your PDF documents.
+
 Efficient Information Retrieval: Quickly find answers to specific questions within the PDF content.
+
 FastAPI Framework: Built on the robust and high-performance FastAPI framework for seamless backend operations.
+
 Swagger UI Integration: User-friendly interface powered by Swagger UI for easy interaction and API exploration.
+
 Flexible and Extensible: Designed to be easily customizable and extendable for various use cases.
+
 Ideal for researchers, students, professionals, and anyone needing efficient information extraction from PDF documents.
+
+
+##############
+This also consist of template data output which can be modified based on use case
